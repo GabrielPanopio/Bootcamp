@@ -1,0 +1,19 @@
+a{
+    font-size: 15px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border: 5px solid;
+    border-color: black;
+    border-radius: 15%;
+    background-color: blue;
+}
+
+a:hover{
+    background-color: red;
+}
+
+a:visited{
+    color: purple;
+}

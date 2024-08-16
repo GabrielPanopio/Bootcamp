@@ -1,0 +1,14 @@
+.box{
+    height: 400px;
+    width: 400px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    background-image:url(/Pictures/arsenal\ 1.jpg);
+    background-size: contain;
+}
+
+h2{
+    background-color: rgba(rgb(8, 8, 8, 0.6)
+}

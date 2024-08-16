@@ -1,0 +1,18 @@
+div{
+    height: 220px;
+    width: 220px;
+}
+
+form{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.input1{
+    align-content: center;
+    padding: 10px 10px;
+    margin: auto;
+
+}
